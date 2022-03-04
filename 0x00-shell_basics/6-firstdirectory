@@ -1,4 +1,2 @@
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 #!/bin/bash
-mkdir $ file /tmp/my_first_directory/
-[A[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[[C[C[C[C[C[D[C[C[C[C[C[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/my_first_directory
+mkdir /tmp/my_first_directory/
