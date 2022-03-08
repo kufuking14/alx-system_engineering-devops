@@ -1,3 +1,2 @@
 #!/bin/bash
-File: 20-hiago
-[A[C[C[C[C[C[C[C[C[Ctr -d 'c' | tr -d 'C'
+tr -d 'c' | tr -d 'C'
